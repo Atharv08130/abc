@@ -1,0 +1,232 @@
+body{
+    width:99%;
+    height:2300px;
+    
+    position: relative;
+}
+header{
+    width:99%;
+    height:120px;
+    position:sticky;
+    top:0px;
+    background-color:pink;
+    
+}
+.d1{   
+     border: 3px solid;
+    border-radius: 50%;
+    position: absolute;
+       top: 14px;
+    left: 110px;
+    width: 111px;
+    height: 95px;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPNOZTcJfvMquO4yQ4GQRLo6xCIGQ8AkWYA&s')no-repeat center center/cover;
+}
+h3{
+        position: absolute;
+    left: 700px;
+       top: -8px;
+    color:brown;
+}
+.p1{
+        position: absolute;
+    left: 583px;
+        top: 20px;
+    color:brown;
+}
+.p2{
+       position: absolute;
+        top: 55px;
+    left: 538px;
+    color:brown;
+}
+.p3{
+    position: absolute;
+       top: 75px;
+    left: 492px;
+    color:brown;
+}
+.d3{
+    width:99%;
+    height:50px;
+    background-color:rgb(186, 102, 102);
+    position:sticky;
+    top:121px;
+}
+a{
+    font-size:20px;
+    text-decoration: none;
+}
+.d4{
+
+    width:99%;
+    height:300px;
+    
+background:url('https://csmssengg.org/images/f4.JPG') ;
+}
+.d5{
+  width: 17%;
+    height: 235px;
+    
+    float: right;
+        margin-right: 285px;
+    background-color: aliceblue;
+    margin-top: -155px;
+    
+}
+.p4{
+text-align: center;
+    font-size: 30px;
+    color: red;
+    position: absolute;
+    top: 200px;
+    left: 979px;
+}
+.l1{
+        position: absolute;
+    top: 269px;
+        left: 981px;
+}
+.i1{
+    position: absolute;
+    top: 289px;
+        left: 981px;
+}
+.l2{
+    position: absolute;
+    top: 317px;
+        left: 981px;
+}
+.i2{
+position: absolute;
+    top: 337px;
+        left: 981px;
+}
+.b1{
+background-color: red;
+    border-radius: 20px;
+    position: absolute;
+    top: 380px;
+    left: 983px;
+    width: 105px;
+    height: 40px;
+}
+.p5{
+  
+    width: 40%;
+    height: 1px;
+    font-size: 34px;
+    margin: 20px;
+        margin-top: 6px;
+    margin-left: 200px;
+    color:red;
+}
+.p6{
+    width: 317px;
+    font-size: 18px;
+    margin-left: 200px;
+    margin-top: 49px;
+    color: #fff174;
+    height: 110px;
+}
+.d6{
+margin-top: 145px;
+    margin-left: 20px;
+    
+    width: 40%;
+    height: 430px;
+    background:url('https://csmssengg.org/images/b7.jpg')no-repeat center center/cover;;
+}
+.d7{
+       width: 43%;
+    height: 316px;
+    float: right;
+    
+    margin-top: -433px;
+    margin-right: 119px;
+}
+.p7{
+        font-size: 22px;
+}
+.p8{
+    height:25px;
+    font-size:25px;
+    color:red;
+}
+.d8{
+    
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    border-radius:30px;
+    width:90%;
+    height:680px;
+    
+}
+.d8 img{
+    width:380px;height:280px;border:3px solid black;border-radius:20px;margin:10px;
+}
+h1{
+ margin-left: 595px;
+        margin-top: 45px;
+}
+.pre2{
+    font-size:20px;
+}
+.d9{
+    border:3px solid;
+    width:99%;
+    height:300px;
+
+}
+.d10{
+      border: 3px solid;
+    border-radius: 50%;
+    position: absolute;
+       top: 1889px;
+    left: 155px;
+    width: 111px;
+    height: 95px;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPNOZTcJfvMquO4yQ4GQRLo6xCIGQ8AkWYA&s')no-repeat center center/cover;
+}
+.p9{   
+     margin-top: 50px;
+    margin-left: -128px;
+}
+.d11{
+    width:100px;
+    height:100px;
+    border:3px solid;
+        margin-top: 120px;
+    margin-left: 150px;
+    
+} 
+
+.d12{
+    border: 3px solid;
+    width: 262px;
+        height: 350px;
+    position: absolute;
+    top: 2000;
+    top: 1764px;
+    left: 1021px;
+}
+.b2{
+    background-color:red;
+    border-radius:20px;
+      width: 113px;
+    height: 40px;
+}
+footer{
+    background-color:blueviolet;
+        margin-top: -64px;
+}
+.d13{
+    
+    width: 90px;
+    height: 180px;
+    position: absolute;
+    top: 1920px;
+    left: 830px;
+}
+

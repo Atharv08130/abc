@@ -1,0 +1,41 @@
+.hero_section{
+    background-image: url(/assets/Bootstrap/03-07-2025/assets/images/header-background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;    
+}
+#Customer_section img{
+    position: relative;
+    left: 70px;
+    top:-22px;
+    width: 50px;
+}
+
+.about-us{
+    background-image: url(/assets/Bootstrap/03-07-2025/assets/images/details-2-background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+}
+
+#trusted_section img {
+    position: relative;
+    left: 50px;
+
+}
+#influencer_section .influencer {
+    background-image: url(/assets/Bootstrap/03-07-2025/assets/images/invitation-background.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.get_quote{
+    gap:50px;
+}

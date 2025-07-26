@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: blue;
+
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+body{
+    background-image:url(https://files.slack.com/files-pri/T0908HSU0PK-F0927TKMDSQ/backgroundimage.jpeg);
+}

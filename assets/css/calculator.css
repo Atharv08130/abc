@@ -1,0 +1,279 @@
+body{background-color:rgb(35, 35, 184);
+
+}
+.big{
+    width:35%;
+    height:600px;
+    background-color:white;
+    border-radius: 20px;
+    position: absolute;
+    left:450px;
+    top: 80px;
+
+
+}
+.dis{
+       width:80%;
+    height:100px;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    position: absolute;
+    left:50px;
+    top: 50px;
+    
+}
+h2{
+    font-size:xx-large;
+    position: absolute;
+    top:10px;
+    left:286px;
+}
+.d1 {
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: orange;
+    position: absolute;
+    top: 179px;
+    left: 67px;
+}
+.h1{
+    position: absolute;
+    top: -11px;
+    left: 19px;
+}
+.d2 {
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: orange;
+    position: absolute;
+    top: 179px;
+    left: 181px;
+}
+.h2 {
+    position: absolute;
+    top: -14px;
+    left: 24px;
+}
+.d3 {
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: orange;
+    position: absolute;
+    top: 179px;
+    left: 285px;
+}
+.h3{
+     position: absolute;
+    left: 21px;
+    top: -8px;
+}
+.d4{
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: orange;
+    position: absolute;
+    top: 179px;
+    left: 386px;
+}
+
+.h4{
+position: absolute;
+    left: 25px;
+    top: -12px;
+}
+
+.d5{
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color:lightskyblue;
+    position: absolute;
+    top: 251px;
+    left: 67px;
+}
+
+.h5{
+    position: absolute;
+    left: 20px;
+    top: -12px;
+}
+.d6{
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 251px;
+    left: 180px;
+
+}
+.h6{
+        position: absolute;
+    left: 22px;
+    top: -12px;
+
+}
+
+.d7{
+  width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 251px;
+    left: 285px;
+}
+.h7{
+       position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d8{
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 251px;
+    left: 385px;
+
+}
+.h8{
+        position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d9{
+   width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 325px;
+    left: 67px;
+}
+.h9{
+          position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d10{
+     width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 325px;
+    left: 180px;
+}
+.h10{
+          position: absolute;
+    left: 22px;
+    top: -12px;
+}
+
+.d11{
+   width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 325px;
+    left: 284px;
+}
+.h11{
+           position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d12{
+      width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 325px;
+    left: 386px;
+
+}
+.h12{
+          position: absolute;
+    left: 22px;
+    top: -12px;
+}
+
+.d13{
+        
+    width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 398px;
+    left: 67px;
+
+}
+.h13{
+          position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d14{
+           width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 398px;
+    left: 180px;
+
+
+
+}
+.h14{
+            position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d15{
+   width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 398px;
+    left: 284px;
+}
+.h15{
+              position: absolute;
+    left: 22px;
+    top: -12px;
+}
+.d16{
+           width: 60px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: lightskyblue;
+    position: absolute;
+    top: 398px;
+    left: 387px;
+
+}
+.h16{
+                 position: absolute;
+    left: 22px;
+    top: -12px;
+}
+button{
+    background-color:greenyellow;
+    width:100px;
+    height:50px;
+    border-radius:20px;
+     position: absolute;
+    top: 470px;
+    left: 65px;
+}

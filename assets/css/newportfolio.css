@@ -1,0 +1,1105 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+@media screen and (max-width: 768px) {
+
+
+  #project .blocks {
+    flex-direction: column;
+    max-width: 30%;
+  }
+
+  #portfolio {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+
+  
+
+ 
+
+  
+
+  form input {
+    width: 10%;
+    margin-bottom: 10px;
+  }
+
+ 
+
+  
+
+  .skill h1 {
+    font-size: 26px;
+  }
+
+  
+
+  /* #three {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 40px;
+    padding: 60px 40px;
+    max-width: 120px;
+    margin: -10px;
+  } */
+
+  #project .blogs,
+  #project .blogss {
+    text-align: left;
+    
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  #project .blogss {
+    
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  #project{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 50px;
+    text-align: left;
+    margin-top: 5%;
+  }
+
+  .mobile_para {
+    width: 100%;
+    text-align: left;
+  }
+
+ 
+
+
+
+  
+
+  #client .avtar3 {
+    margin: 20px auto 0 auto;
+  }
+
+
+
+  /* Hide contact section if it exists */
+  #contact {
+    display: none;
+  }
+
+
+
+.main{
+  padding-left: 90px;
+  padding-right: 75px;
+}
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+.main{
+  padding-left: 40px;
+}
+
+.menubar{
+  display: block;
+}
+header {
+  margin-top: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.portfolio {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.navbar {
+  display: flex;
+  gap: 34px;
+  margin-left: 27px;
+}
+.navbar i {
+  margin-right: 4px;
+}
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+}
+
+.topbuttons {
+  display: flex;
+  gap: 26px;
+}
+
+.signin {
+  background-color: white;
+  border: none;
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.block {
+  padding: 11px 21px;
+  background-color: #000;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+#portfolio {
+  display: flex;
+}
+
+#portfolio .welcome {
+  margin-top: 12%;
+  font-size: 26px;
+  max-width: 60%;
+}
+
+#portfolio .mypage {
+  max-width: 80%;
+}
+
+#portfolio .mypage h1 {
+  letter-spacing: 1px;
+}
+.para1 {
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 27px;
+  letter-spacing: 0.5px;
+  color: hsl(0deg 0% 55);
+  width: 100%;
+}
+
+form lable {
+  font-size: 12px;
+}
+
+form input {
+  padding: 10px;
+  width: 288px;
+  margin-right: 10px;
+  margin-top: 8px;
+  font-size: 11px;
+}
+
+.require {
+  background-color: #000;
+  color: white;
+  font-size: 10px;
+  padding: 13px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form p {
+  margin-top: 9px;
+  font-size: 12px;
+  color: hsl(0deg 0% 55);
+}
+
+form a {
+  color: hsl(0deg 0% 55);
+}
+
+.girlimg {
+  margin-top: 40px;
+}
+
+.girlimg .imgone {
+  border-radius: 10px;
+  height: 120%;
+  width: 130%;
+  object-fit: cover;
+  margin-left: -20%;
+}
+
+#two {
+  margin-top: 20%;
+  padding-left: 65px;
+  padding-right: 62px;
+}
+
+.my {
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.clients {
+  margin-top: 30px;
+  
+}
+
+.logo1 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 15%;
+}
+
+.logo2 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 27%;
+}
+
+.logo3 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 39%;
+}
+
+.logo4 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 51%;
+}
+
+.logo5 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 63%;
+}
+
+.logo6 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 75%;
+}
+
+.skill {
+  margin-top: 20%;
+  text-align: center;
+}
+
+.skill h2 {
+  font-size: 13px;
+}
+
+.skill h1 {
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.skill p {
+  margin-top: 15px;
+  margin-left: 5%;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  color: hsl(0deg 0% 55);
+  width: 90%;
+  line-height: 30px;
+}
+
+/* #three {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 40px;
+  padding: 60px 40px;
+  max-width: 1200px;
+  margin: -10px;
+} */
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  font-size: 20px;
+}
+
+h3 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#three p {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+
+.weather {
+  margin-left: 25%;
+  margin-right: 30%;
+  font-size: 15px;
+  text-align: center;
+  color: #666;
+}
+
+/* section project start */
+
+.myproject h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+#project .blogs {
+  margin-top: 8%;
+  display: flex;
+  gap: 30px;
+}
+
+#project .mobile_para {
+  width: 250px;
+}
+
+#project .mobile {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+
+#project .details {
+  margin-top: 10%;
+  padding: 10px 20px;
+  background-color: #000;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+#project .blogss {
+  margin-top: 10%;
+  display: flex;
+  gap: 30px;
+}
+/* section project end */
+
+/* section resume start */
+
+#resume {
+  margin-top: 15%;
+  display: flex;
+}
+
+.my_resume h1 {
+  font-size: 30px;
+}
+
+.my_resume p {
+  margin-top: 20px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+#resume b {
+  font-size: 12px;
+}
+
+#resume .bachelor {
+  margin-left: 28%;
+}
+
+#resume .bachelor i {
+  margin-right: 10px;
+  color: black;
+
+  font-size: 20px;
+}
+
+#resume .bachelor p {
+  margin-top: 10px;
+
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* section resume end */
+
+/* section clients start */
+
+#client {
+  margin-top: 10%;
+}
+
+#client h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.client_say p {
+  line-height: 25px;
+  margin-left: 32%;
+  margin-right: 30%;
+  margin-top: 10px;
+  font-size: 15px;
+  text-align: center;
+  color: #666;
+}
+
+#client .app_deveploment {
+  display: flex;
+}
+
+#client .mobile_app {
+  margin-top: 8%;
+  margin-left: 15%;
+}
+
+#client .mobile_app h1 {
+  font-size: 25px;
+  margin-right: 66%;
+}
+#client .mobile_app h2 {
+  font-size: 25px;
+  margin-left: 25px;
+}
+
+#client .mobile_app p {
+  margin-right: 30%;
+  margin-left: 25px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+
+#client .mobile_app h5 {
+  margin-left: 25px;
+  font-size: 13px;
+}
+
+#client .sc {
+  height: 30px;
+  margin-left: 25px;
+}
+
+#client .avtar3 {
+  margin-top: 8%;
+  margin-right: 15%;
+}
+.avtar3 .avtar {
+  height: 280px;
+  width: 245px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+/* section client end  */
+
+/* section popular start  */
+
+#popular .popular_clients p {
+  font-weight: bold;
+  margin-top: 15%;
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #666;
+}
+
+#popular .popular_clients h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+.clients {
+  margin-top: 30px;
+  
+}
+
+.logo7 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 15%;
+  filter: grayscale(100%);
+}
+
+.logo8 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 27%;
+   filter: grayscale(100%);
+}
+
+.logo9 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 39%;
+   filter: grayscale(100%);
+}
+
+.logo10 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 51%;
+   filter: grayscale(100%);
+}
+
+.logo11 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 63%;
+   filter: grayscale(100%);
+}
+
+.logo12 {
+  height: 60px;
+  width: 130px;
+  margin-right: 10px;
+  position: absolute;
+  left: 75%;
+   filter: grayscale(100%);
+}
+
+
+
+
+
+
+/* section popular end  */
+
+/* section footer start */
+
+#footer {
+  border-top: 1px solid #eee;
+  padding: 20px 40px;
+  background-color: #fff;
+  margin-top: 30%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-left {
+  font-size: 13px;
+  color: #777;
+  flex: 1;
+  min-width: 250px;
+}
+
+.footer-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  min-width: 250px;
+}
+
+.footer-right nav a {
+  margin: 0 10px;
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-right nav a:hover {
+  color: #000;
+}
+
+.subscribe-btn {
+  font-size: 10px;
+  font-weight: bold;
+  padding: 8px 16px;
+  background-color: #111;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background-color: #000;
+}
+
+/* FOOTER ENDS */
+
+/* skillss section start  */
+
+#three .myskills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#three .myskills .card {
+  width: 100%;
+}
+
+/* tablet view  */
+@media screen and (max-width: 768px) and (min-width: 425px) {
+   .main{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  header{
+    margin-top: 25px;
+  }
+
+   header .signin {
+    display: none;
+  }
+
+  header .block {
+    display: none;
+  }
+
+  header .menubar{
+    width: 35px;
+  }
+
+  .welcome{
+    max-width: 65% !important;
+    margin-right: 30% !important;
+   font-size: 30px !important; 
+    text-align: left;
+  }
+
+   #portfolio .mypage h1 {
+    font-size: 24px;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    margin-top: 10%;
+    width: 100%;
+  }
+  
+  .para1 {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #555;
+    width: 100%;
+  }
+  
+
+  .require{
+    width: 30%;
+  }
+  
+
+  .mypage{
+   max-width: 100% !important;
+   margin-top: -50px;
+  }
+
+  .myskills{
+    height: 50%;
+  }
+
+
+  
+
+
+  .weather{
+     width: 71%;
+     
+             margin-top: 30px !important;
+        margin: auto;
+        width: 71% !important;
+        padding: 0 10px;
+
+  }
+
+  
+  
+  #three .myskills .column {
+    display: grid;
+    grid-template-columns: auto auto;
+    flex: 50%;
+    max-width: 50%;
+    gap:100px;
+  margin-left: 20%;
+    margin-top: 10%;
+  
+  }
+
+
+   #resume {
+    flex-direction: column;
+  }
+
+    #resume .bachelor {
+    margin-left: 0 !important;
+    margin-top: 5%;
+  }
+
+ 
+
+
+
+  .girlimg .imgone{
+    height: 30%;
+    width: 700px;
+    margin: auto;
+    
+  }
+
+  #portfolio{
+    margin-top: 10px;
+  }
+
+  .navbar{
+    display: none;
+  }
+
+.client_say p{
+  margin-top: 30px !important;
+        margin: auto;
+        width: 67% !important;
+        padding: 0 10px;
+}
+
+  .clients {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+  }
+
+  .clients img {
+    position: static !important;
+    margin: auto;
+    width: 200px;
+    height: auto;
+  }
+
+
+  #client .app_deveploment {
+    flex-direction: column;
+    
+  }
+
+  .mobile_app{
+    margin-left: 0% !important;
+  }
+
+  .mobile_app h1 {
+    margin-right: 75% !important;
+  }
+
+  #client .mobile_app p{
+    width: 50%;
+  }
+
+
+  #client .avtar3 {
+    margin-top: 8%;
+    margin-right: 63%;
+  }
+  
+
+
+ #footer .footer-container {
+    flex-direction: column;
+    align-items: baseline;
+    gap: 15px;
+  }
+
+  #footer-right {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .skill p {
+   margin-top: 30px !important;
+    margin: auto;
+    width: 100% !important;
+    padding: 0 10px;
+  }
+
+
+  .myskill .column{
+    margin-left: 30%;
+  }
+}
+
+
+/* skillss section end */
+
+
+/* mobile view */
+
+@media screen and  (max-width: 426px)  {
+
+  .main{
+    padding-left: 10%;
+  }
+
+  .portfolio{
+    margin-left: 4px;
+    font-size: 20px;
+  }
+
+  #portfolio{
+    margin-top: 10px;
+  }
+
+
+  
+  header{
+    gap:120%;
+    margin-top: 10%;
+  }
+  
+  header .navbar a{
+    display: none;
+
+  }
+  header .topbuttons{
+    display: none;
+  }
+    header .menubar{
+    width: 40px;
+  }
+
+  .girlimg .imgone{
+    height: 50%;
+    width:142% ;
+    margin-left: -2%;
+    object-fit: cover; 
+    
+  }
+
+  .welcome{
+    max-width: 100% !important;
+    margin-right: 45px !important;
+   font-size: 20px !important; 
+    text-align: left;
+  }
+  
+  .mypage{
+    max-width: 100%;
+  }
+
+  form input{
+    width: 150%;
+  }
+  #portfolio .mypage h1{
+    font-size: 40px;
+    width: 150%;
+  }
+
+  .mypage .para1{
+    font-size: 25px ;
+    width: 140%;
+
+  }
+  
+  
+  
+
+
+  #two .my{
+    width: 160%;
+    font-size: 130%;
+text-align: center; 
+ }
+
+   .clients {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    width: 100%;
+    margin-left: 17%;
+   
+    
+  }
+     
+  .myskills{
+    text-align: center;
+    margin-left:-6%;
+   
+  }
+
+  
+
+  .skill{
+    
+    width: 167%;
+  }
+      
+  .skill p{
+    font-size: 100%;
+  }
+  
+.column .card{
+  background: none;
+    border: none;
+} 
+   .clients img {
+    position: static !important;
+    width: 150px;
+    height: auto;
+    margin: 0px;
+  }
+
+  .weather {
+    color: hsl(0deg 0% 55);
+    font-size: 15px;
+    text-align: center;
+    height: auto;
+    max-width: 100% !important;
+    margin: 0px;
+    margin-left: 10%;
+  }
+
+   #project .blogss {
+    
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  #project{
+    display: grid;
+    grid-template-columns: auto ;
+    margin-left: 30%;
+    text-align: left;
+    margin-top: 5%;
+  }
+
+   .mobile {
+    font-size: 16px;
+    line-height: 1.6;
+    color: hsl(0deg 0% 55);
+    max-width: 100%;
+  }
+
+  #resume{
+    flex-direction: column;
+    margin-left: 8%;
+
+  }
+
+  .bachelor{
+    margin-left: 0% !important;
+    width: 93%;
+    margin-top: 25px;
+  }
+
+.client_say{
+      width: 83%;
+}
+
+
+  .client_say p{
+  margin-top: 30px !important;
+        margin: auto;
+        width: 77% !important;
+        padding: 0 10px;
+}
+
+.myproject{
+  margin-top: 10%;
+  width: 100%;
+  margin-left: 20%;
+}
+
+.myproject p{
+  font-size: 20px;
+}
+
+.mobile_app{
+  width: 150%;
+  margin-top: 50px !important;
+}
+.mobile_app h1{
+  width: 32%;
+}
+
+.mobile_app p{
+  width: 100%;
+}
+.app_deveploment {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0px;
+  }
+
+
+
+  #footer .footer-container {
+    flex-direction: column;
+    align-items: baseline;
+    gap: 15px;
+  }
+
+  #footer-right {
+    flex-direction: column;
+    align-items: center;
+  }
+
+.avtar3 .avtar{
+  width: 250%;
+  height: 30%;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+ .my_resume p{
+      width: 60%;
+ }
+ .footer-right{
+  width: 130%;
+ }
+
+
+
+.require{
+  width: 159%;
+}
+
+}

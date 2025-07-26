@@ -1,0 +1,131 @@
+.d1{
+    width:100px;
+    height:100px;
+    background-color:red;
+    transition: width 2s,height 2s;
+}
+.d1:hover{
+    width:300px;
+    height:300px;
+}
+.d2{
+     width:100px;
+    height:100px;
+    background-color:yellow;
+    animation-name:example;
+    animation-duration:4s;
+}
+@keyframes example{
+0% {background-color:violet}
+25% {background-color:yellow}
+50% {background-color:blue}
+100% {background-color:black}
+}
+.d3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation: myfirst 3s linear 2s infinite;
+}
+
+@keyframes myfirst {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+.d4{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    border:3px solid;
+    margin-left:300px;
+    background:url('/assets/css/1.jpg')no-repeat center center/cover;
+}
+.container {
+  margin-top:100px;
+  position: relative;
+  width: 50%;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #d850a6;
+}
+
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+div.polaroid {
+  margin-top:50px;
+  width: 50%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 red;
+  margin-bottom: 25px;
+}
+
+div.container2 {
+  text-align: center;
+  padding: 10px 20px;
+}

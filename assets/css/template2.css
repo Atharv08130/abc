@@ -1,0 +1,398 @@
+
+body{
+display:flex;
+ justify-content: center;
+}
+.border{
+    width:180vh;
+    height:500vh;
+}
+.header{
+    width:180vh;
+    height:15vh;
+}
+a{
+    text-decoration:none;
+    color:gray;
+}
+.nova{
+    margin-left:50px;
+}
+pre{
+    font-size:20px;
+}
+.getstarted{
+    float:right;
+    margin-top:-19px;
+    background-color:darkgreen;
+    color:white;
+    border-radius:3px;
+    
+}
+.img1{
+    wight:30px;
+    height:30px;
+   margin-top: -15px;
+}
+.small{
+    width:180vh;
+    height:600px;
+    
+}
+.section1{
+    width:90vh;
+    height:600px;
+
+}
+.heading{
+    width: fit-content;
+    color: darkgreen;
+    background-color: rgb(215, 237, 215);
+    border: 1px solid rgb(215, 237, 215);
+    border-radius: 5px;
+    font-family: arial;
+    font-size: 17px;
+}
+
+.secure{
+    font-size:50px;
+    margin-top:20px;
+    font-family:arial;
+    
+}
+.Experience{
+       margin-top: -30px;
+}
+.get{
+    width:200px;
+    height:50px;
+    background-color:darkgreen;
+    color:aliceblue;
+    border:1px solid darkgreen;
+    border-radius:5px;
+    font-size:20px;
+}
+.learn{
+      width:200px;
+    height:50px;
+    color:rgb(0, 5, 9);
+    border:1px solid darkgreen;
+    border-radius:5px;
+    font-size:20px;
+}
+.trusted{
+    color:darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+        margin-top:50px;
+}
+.aside{
+    width:90vh;
+    height:600px;
+    margin-top: -606px;
+    margin-left: 664px;
+}
+.img2{
+       width: 485px;
+    height: 470px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+.imgdiv{
+   width: 300px;
+    height: 300px;
+    margin-left: -1px;
+    margin-top: -208px;
+    position: absolute;
+    background-color:aliceblue;
+    border-radius:20px;
+}
+.smalldiv{
+    width:250px;
+    height:95px;
+    background-color: rgb(215, 237, 215);
+    border-radius:20px;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+.no{
+        margin-top: 5px;
+    margin-left: 15px;
+}
+.dot{
+        margin-left: 207px;
+    font-size: 30px;
+    margin-top: -47px;
+}
+.Expenses{
+        margin-left: 15px;
+    margin-top: -10px;
+}
+.dollar{
+    font-size: 25px;
+    font-family: arial;
+}
+.tiny{
+   width: 58px;
+    height: 22px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(215, 237, 215);
+    font-family: arial;
+    font-size: 15px;
+    margin-left: 175px;
+    margin-top: -44px;
+}
+.two{
+margin-left:3px;
+}
+.groceries{
+        margin-left: 30px;
+    margin-top: 30px;
+}
+.today{
+    color:rgb(177, 172, 172);
+}
+.g1{
+        margin-left: 180px;
+    margin-top: -50px;
+}
+.h1{    margin-top: 25px;}
+.internet{
+        margin-left: 30px;
+    margin-top: 10px;
+}
+.yesterday{
+    color:rgb(177, 172, 172);
+}
+.i1{
+        margin-left: 180px;
+    margin-top: -50px;
+}
+.h2{    margin-top: 25px;}
+.car{
+        margin-left: 30px;
+    margin-top: 10px;
+}
+.one{
+    color:rgb(177, 172, 172);
+}
+.c1{
+        margin-left: 180px;
+    margin-top: -50px;
+}
+.s2{
+    width: 180vh;
+    height: 555px;
+    margin-top: 80px;
+}
+.img3{
+    width: 550px;
+    height: 400px;
+}
+.mission{
+    width:545px;
+    height:140px;
+    background-color:darkgreen;
+    border:3px solid darkgreen;
+    border-radius:20px;
+
+}
+.p1{
+       color: rgb(137, 237, 137);
+    margin-left: 80px;
+    font-family: arial;
+}
+.our{
+    margin-left: 80px;
+    color: white;
+    font-size: 20px;
+}
+.a2{
+        width: 444px;
+       height: 425px;
+    margin-left: 661px;
+    margin-top: -550px;
+
+}
+.p3{
+       width: 80px;
+    color: darkgreen;
+    background-color: rgb(215, 237, 215);
+    border: 1px solid rgb(215, 237, 215);
+    border-radius: 5px;
+    padding: 10px;
+}
+.ex{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+}
+.p5{
+        font-family: arial;
+        font-size:20px;
+}
+.pre2{
+       font-size: 18px;
+    font-family: arial;
+        margin-top: 25px;
+}
+.s3{
+        width: 180vh;
+    height: 555px;
+    margin-top: 80px;
+}
+.choose{
+       width: 180vh;
+    height: 500px;
+    background-color: rgb(215, 237, 215);
+}
+.why{
+    font-size:50px;
+}
+.whyp{
+        margin-left: 10px;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.watch{
+       background-color: darkgreen;
+    color: white;
+    font-size: 22px;
+    height: 50px;
+    border: 3px solid darkgreen;
+    border-radius: 10px;
+    width: 228px;
+    margin-left: 10px;
+
+}
+.watchm{
+       margin-left: 10px;
+}
+.play{
+        margin-left: -6px;
+}
+.profile{
+  width: 715px;
+    height: 450px;
+    margin-left: 580px;
+    margin-top: -490px;
+    
+}
+.profile2{
+    width: 325px;
+    height: 220px;
+
+}
+.fa-solid{
+        font-size: 35px;
+       margin-top: 5px;
+    margin-left: 12px;
+}
+
+.user{
+    font-size: 25px;
+}
+.easy{
+    font-size: 22px;
+}
+.customer{
+  width: 325px;
+    height: 220px;
+
+    margin-top: 20px;
+}
+.financial{
+  width: 325px;
+    height: 220px;
+    margin-left: 370px;
+       margin-left: 370px;
+       margin-top: -472px;
+}
+.security{
+     width: 325px;
+    height: 220px;
+    margin-left: 370px;
+       margin-left: 370px;
+         margin-top: 23px;
+}
+
+.fas{
+     font-size: 35px;
+       margin-left: 11px;
+    margin-top: 8px;
+}
+.customer2{
+     font-size: 25px;
+}
+.financial2{
+     font-size: 25px;
+}
+.security2{
+     font-size: 25px;
+}
+.service2{
+     font-size: 22px;
+}
+.service{
+     font-size: 22px;
+}
+.data{
+     font-size: 22px;
+}
+pre{
+ margin-top: 40px;
+}
+.section4{
+     width: 180vh;
+    height: 500px;
+    border: 3px solid;
+    margin-left: -3px;
+    margin-top: 120px;
+}
+.usercircle{
+       border: 1px solid;
+    border-radius: 50%;
+    background-color: rgb(167 228 167);
+    width: 55px;
+    height: 50px;
+}
+
+.headsetcircle{
+       border: 1px solid;
+    border-radius: 50%;
+    background-color: rgb(167 228 167);
+    width: 55px;
+    height: 50px;
+}
+.chartlinecircle{
+       border: 1px solid;
+    border-radius: 50%;
+    background-color: rgb(167 228 167);
+    width: 55px;
+    height: 50px;
+        margin-top: 7px;
+}
+.shieldcircle{
+       border: 1px solid;
+    border-radius: 50%;
+    background-color: rgb(167 228 167);
+    width: 55px;
+    height: 50px;
+}
+.green{
+    background-color:darkgreen;
+}
+.green1{
+    background-color:darkgreen;
+}
+.green2{
+    background-color:darkgreen;
+}
+.green3{
+    background-color:darkgreen;
+}
+.green4{
+    background-color:darkgreen;
+}
+.green5{
+    background-color:darkgreen;
+}
